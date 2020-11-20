@@ -1,1 +1,1 @@
-extrapolated methods for puppet in python (linux)
+# puppet_dust - extrapolated methods for puppet in python (linux)
